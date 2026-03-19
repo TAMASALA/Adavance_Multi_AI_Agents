@@ -1,0 +1,14 @@
+1. Image Prompt Structure
+Good image prompts include subject, environment, lighting conditions, and artistic style.
+
+2. Negative Prompts
+Negative prompts help diffusion models avoid errors such as blurry images, distortions, or artifacts.
+
+3. Lighting
+Lighting styles like cinematic lighting, soft shadows, and volumetric light improve visual quality.
+
+4. Artistic Styles
+Popular styles include photorealistic, watercolor, oil painting, anime, and cyberpunk.
+
+5. Camera Settings
+Camera descriptions such as 35mm lens, depth of field, and ultra-wide angle improve realism.

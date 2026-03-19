@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+crewai
+crewai-tools
+python-dotenv
+diffusers
+transformers
+accelerate
+torch

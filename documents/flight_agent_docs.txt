@@ -1,0 +1,14 @@
+1. Airline Industry
+Airlines provide transportation services between cities and countries using commercial aircraft.
+
+2. Flight Schedules
+Flights are defined by airline name, departure time, arrival time, and travel duration.
+
+3. Popular Airlines
+Common airlines include Air India, Indigo, Emirates, Qatar Airways, and Singapore Airlines.
+
+4. Direct vs Connecting Flights
+Direct flights travel between two cities without stops while connecting flights stop at intermediate airports.
+
+5. Airport Procedures
+Passengers must complete check-in, baggage drop, and security screening before boarding flights.

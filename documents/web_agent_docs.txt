@@ -1,0 +1,14 @@
+1. Artificial Intelligence
+Artificial Intelligence (AI) is the field of computer science focused on building machines capable of performing tasks that normally require human intelligence. Examples include speech recognition, decision-making, and natural language processing.
+
+2. Machine Learning
+Machine learning is a subset of AI that allows systems to learn patterns from data and make predictions without being explicitly programmed.
+
+3. Cloud Computing
+Cloud computing provides computing resources such as servers, storage, databases, networking, and software over the internet.
+
+4. Cybersecurity
+Cybersecurity protects computer systems, networks, and data from unauthorized access, attacks, or damage.
+
+5. Blockchain Technology
+Blockchain is a distributed ledger technology used to record transactions securely across many computers in a decentralized manner.

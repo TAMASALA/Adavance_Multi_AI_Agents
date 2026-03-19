@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Multi-Agent Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>AI Multi-Agent Assistant</h1>
+
+    <form action="/predict" method="post" class="chat-form">
+        <input 
+            type="text" 
+            name="question" 
+            placeholder="Ask anything... (code, flight, image, info)" 
+            required
+        >
+        <button type="submit">Ask</button>
+    </form>
+
+    <div class="response">
+
+        {% if prediction_text %}
+            <h3>Response</h3>
+            <pre>{{ prediction_text }}</pre>
+        {% endif %}
+
+        {% if image_path %}
+            <h3>Generated Image</h3>
+            <img src="{{ image_path }}" class="generated-image" alt="Generated Image">
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

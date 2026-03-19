@@ -1,0 +1,14 @@
+1. Python Basics
+Python is a high-level programming language known for readability and simplicity. It is widely used in web development, automation, AI, and data science.
+
+2. Python Functions
+Functions in Python are created using the 'def' keyword and allow code reuse and modular programming.
+
+3. Flask Framework
+Flask is a lightweight Python web framework used to build APIs and web applications quickly.
+
+4. FastAPI Framework
+FastAPI is a modern Python framework designed for building high-performance APIs with automatic documentation.
+
+5. Clean Code Principles
+Clean code emphasizes readability, modular design, meaningful variable names, and proper documentation.
